@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'zuhlke.interview.App'
+    mainClass = 'com.zuhlke.interview.App'
 }
 
 tasks.named('test') {
