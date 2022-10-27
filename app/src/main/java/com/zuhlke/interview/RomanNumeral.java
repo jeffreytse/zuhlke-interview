@@ -58,7 +58,7 @@ public class RomanNumeral {
         return result;
     }
 
-    private void validateInput(String romanNumeral) {
+    protected void validateInput(String romanNumeral) {
         if (null == romanNumeral || romanNumeral.trim().equals("")) {
             throw new EmptyRomanNumeralException();
         }
