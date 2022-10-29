@@ -61,6 +61,11 @@ to create a pull request.
 
 You can start by [opening an issue](https://github.com/jeffreytse/dotfiles/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
+## Credits
+
+- [Gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all.
+- [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) - A Gradle plugin for printing beautiful logs on the console while running tests.
+
 ## License
 
 This project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jeffrey Tse.
